@@ -1,0 +1,66 @@
+/* #titulo{
+    font-family: Verdana, sans-serif;
+    font-size: 26px;
+} */
+
+
+/* /* A CONTINUACION VEREMOS QUE PODEMOS DISMINUIR CODIGO Y SER MAS PRACTICO  */
+/* #titulo{
+    font: bold 26px Verdana, sans-serif;
+} */
+
+
+
+/* #descripcion{
+    text-align: center;
+    word-spacing: 20px;
+}
+a{
+    text-decoration: none;
+}
+ */
+
+
+
+ /* #titulo{
+     font: bold 26px MiNuevaLetra, verdana, sans-serif;
+ }
+ @font-face{
+     font-family: "MiNuevaLetra";
+     src: url("sunny.otf");
+ }
+ con esta lineas de codigo podemos cargar fuentes que tenemos dentro de nuestro dispositivo o en algun archivo en la nuve etc. ademas utilizando
+ @font-face le obliga al navegador que presente el tipo de letra que ponemos nostros sin importar si el navegar y el sistema operativo no lo tiene, esto funciona
+ siempre y cuando esten en el hosting guardado si no esta guardado coge como predeterminado , verdana,sans-serif */
+
+
+
+
+/* #titulo{
+    font: bold 26 px verdana, sans-serif;
+    color: #CCBBDD;
+} */
+/* 
+#titulo{
+    font: bold 26px Verdana, sans-serif;
+    color: rgb(204, 204, 204);
+}
+ */
+/*  #titulo{
+    font: bold 26px Verdana, sans-serif;
+    color: hsl(0, 50%, 80%);
+ } */
+ 
+
+
+
+#titulo{
+    font: bold 26px verdana, sans-serif;
+}
+#descripcion{
+    width: 250px;
+    height: 150px;
+}
+
+
+

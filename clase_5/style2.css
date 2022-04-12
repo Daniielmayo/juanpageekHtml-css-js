@@ -1,0 +1,18 @@
+/* ejemplo 1 :  p{
+    font-size: 20px;
+} *//* aqui estamos utilizando palabra clave "p" para poder afectar todos los parrafos */
+/* span{
+    font-size: 20px;
+} */
+
+
+/* ejemplo 2 : #texto1 { font-size: 20px}
+#texto2 { font-size: 25px;} 
+son utilizados los "id"*/
+
+/*  ejemplo 3: .texto1{font-size:25px;}
+aqui estamos utilizando "class */
+
+/*  Ejemplo 4  .texto1 {font-size: 25px;}
+p.texto1 {font-size: 25px;} 
+Aqui estamos afectando las "class" estamos afectando las estiqueas "p y b" que tienen las class "texto1*/
